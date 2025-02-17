@@ -2,6 +2,8 @@
 
 A lightweight and versatile JavaScript library for formatting strings. Easily convert strings to `camelCase`, `kebab-case`, `snake_case`, `Title Case`, and remove special characters. Perfect for cleaning and transforming strings in your projects!
 
+Link : https://www.npmjs.com/package/tomato-string-formatter
+
 ---
 
 ## Installation
